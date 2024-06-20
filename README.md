@@ -1,16 +1,46 @@
-# Projeto em React JS 
+# ⚡ Projeto
+## 🚀 Bem-vindo ao projeto React JS de Filmes! 
+### Este é um projeto de filmes desenvolvido em React JS. 
+## Pré-requisitos
 
-Para rodar a aplicação é necessário instalar os seguintes comandos no terminal:
+Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu ambiente de desenvolvimento.
 
-npm install
+- Node.js: [Baixar Node.js](https://nodejs.org/)
+- npm (gerenciador de pacotes do Node.js): Geralmente instalado junto com o Node.js
 
-npm audit fix (se for necessário)
+## Instalação
 
-npm install axios
+1. Clone este repositório para o seu ambiente local:
 
-npm install react-router-dom
+   ```bash
+   git clone https://github.com/seu-usuario/reactjs-movieapp.git
+   
+2. Navegue até o diretório do projeto:
 
-npm install react-toastify
+   ```bash
+   cd reactjs-movieapp
+      
+3. Instale as dependências necessárias do projeto utilizando npm:
 
-E para iniciar a aplicação:
-npm start
+   ```bash
+   npm install
+      
+4. Se necessário, execute o comando a seguir para corrigir vulnerabilidades:
+
+   ```bash
+   npm audit fix --force (se for necessário)
+
+5. Instale as seguintes dependências adicionais:
+   ```bash
+   npm install axios
+
+   npm install react-router-dom
+
+   npm install react-toastify
+
+6. Para iniciar o servidor de desenvolvimento do Angular e visualizar o projeto:
+
+   ```bash
+   npm start
+
+<img src="src/images/readme.jpg" />
