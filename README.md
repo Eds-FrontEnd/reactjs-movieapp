@@ -1,5 +1,5 @@
 # ⚡ Projeto
-## 🚀 Bem-vindo ao projeto React JS de Filmes! 
+## 🚀 Bem-vindo ao projeto MovieApp! 
 ### Este é um projeto de filmes desenvolvido em React JS. 
 ## Pré-requisitos
 
