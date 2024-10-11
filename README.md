@@ -36,6 +36,6 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu ambi
 6. Para iniciar o servidor de desenvolvimento do React e visualizar o projeto:
 
    ```bash
-   npm run dev
+   npm run start
 
 <img src="src/images/readme.jpg" />
