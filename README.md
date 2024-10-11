@@ -33,9 +33,9 @@ Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu ambi
 
    npm install react-toastify
 
-6. Para iniciar o servidor de desenvolvimento do Angular e visualizar o projeto:
+6. Para iniciar o servidor de desenvolvimento do React e visualizar o projeto:
 
    ```bash
-   npm start
+   npm run dev
 
 <img src="src/images/readme.jpg" />
